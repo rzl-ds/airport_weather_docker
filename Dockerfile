@@ -1,5 +1,5 @@
 # set your parent image to be from the `ubuntu` repository and with the
-# `18.04` tag
+# `20.04` tag
 # --------------- #
 # FILL ME IN !!!! #
 # --------------- #
